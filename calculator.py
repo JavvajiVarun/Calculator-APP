@@ -9,7 +9,7 @@ if c == 1 :
 elif c == 2 :
     print("Difference is : " , a-b-d)
 elif c == 3 :
-    print("Product is : " , a * b * c)
+    print("Product is : " , a * b * d)
 elif c == 4 :
     print("Answer : " , (a / b )/d)
 
